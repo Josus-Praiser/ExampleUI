@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ExampleUI</string>
+    <!-- First Title List Data -->
+    <string name="title_1">Watchlist</string>
+    <string name="title_2">QR Code</string>
+    <string name="title_3">Compliance</string>
+    <string name="title_4">E-invoice</string>
+    <string name="title_5">Watchlist</string>
+    <string name="title_6">Watchlist</string>
+    <string name="title_7">Watchlist</string>
+    <string name="title_8">Watchlist</string>
+    <string name="title_9">Watchlist</string>
+    <string name="title_10">Watchlist</string>
+    <!-- First Subtitle Title List Data -->
+    <string name="sub_title">Filling Updates</string>
+    <string name="secondList_title">Max Savings</string>
+</resources>
