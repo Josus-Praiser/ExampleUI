@@ -5,5 +5,9 @@
         android:icon="@drawable/share_icon"
         app:showAsAction="always"
         android:title="Share icon"/>
+    <item android:id="@+id/alert_icon"
+        android:title="Alert Icon"
+        android:icon="@drawable/alert_icon"
+        app:showAsAction="always"/>
 
 </menu>

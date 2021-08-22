@@ -17,9 +17,10 @@
             android:layout_height="wrap_content"
             android:id="@+id/card1_image_view"
             android:src="@drawable/ic_search"
-            android:background="@drawable/button_bg"
+            android:background="@drawable/btn_bg_1"
             android:layout_gravity="center_horizontal"
-            android:layout_marginTop="10dp"/>
+            android:layout_marginTop="10dp"
+            android:padding="5dp"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -29,13 +30,13 @@
             android:text="Title"
             android:textColor="@color/black"
             android:layout_marginTop="10dp"
-            android:textSize="20sp"
+            android:textSize="16sp"
             />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/subtitle_text"
-            android:textSize="16sp"
+            android:textSize="12sp"
             android:text="Sub Title"
             android:layout_marginTop="10dp"
             android:layout_gravity="center_horizontal"
